@@ -1,6 +1,6 @@
 // Problem : Remove duplicates from sorted array
 // Platform : Leetcode
-// Topic : Arrays
+// Topic : Array, Two pointer
 // Difficulty : easy
 class Solution {
     public int removeDuplicates(int[] nums) {
