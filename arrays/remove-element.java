@@ -1,7 +1,7 @@
 // Problem : Remove element
 // Platform : Leetcode
 // Topic : Array, Two pointer
-// Difficulty : Easy
+// Difficulty : Easy 
 class Solution {
     public int removeElement(int[] nums, int val) {
         int k=0;
