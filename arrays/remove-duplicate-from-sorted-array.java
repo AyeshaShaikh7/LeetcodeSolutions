@@ -1,7 +1,7 @@
 // Problem : Remove duplicates from sorted array
 // Platform : Leetcode
 // Topic : Array, Two pointer
-// Difficulty : easy
+// Difficulty : easy 
 class Solution {
     public int removeDuplicates(int[] nums) {
         int k=0;
