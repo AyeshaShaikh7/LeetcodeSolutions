@@ -2,7 +2,7 @@
 // Platform : Leetcode
 // Topic: Arrays
 // Difficulty : Easy
-class Solution {
+class Solution { 
     public int[] twoSum(int[] nums, int target) {
         int sum;
         for(int i=0;i<nums.length;i++){
